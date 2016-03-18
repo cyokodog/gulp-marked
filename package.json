@@ -10,7 +10,7 @@
   "author": "Thomas Moyse <tmoyse@gmail.com>",
   "repository": "lmtm/gulp-marked",
   "dependencies": {
-    "marked": "~0.3.2",
+    "marked": "cyokodog/marked",
     "bufferstreams": "0.0.1",
     "gulp-util": "~2.2.9",
     "lodash": "^2.4.1"
